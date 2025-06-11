@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=flat&logo=assemblyscript&logoColor=white)
-
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -33,18 +32,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 📊 Estadísticas de GitHub:
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=hugocuevasr&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocuevasr&layout=compact&theme=radical)
-
-# 🏆 Trofeos:
-
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=hugocuevasr&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=hugocuevasr&theme=radical)
 
 
