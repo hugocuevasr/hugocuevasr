@@ -1,15 +1,18 @@
-# 💡 Acerca de mí
 
+# 💡 Acerca de mí
+<!--
 🔭 **Estoy trabajando en** ...
 
 🌱 **Estoy aprendiendo** ...
+-->
 
-🤝 **Estoy buscando colaborar en** ...
+🤝 **Estoy buscando colaborar en** proyectos de desarrollo web full-stack, videojuegos o sistemas con enfoque en seguridad y rendimiento. Me interesa trabajar en soluciones con impacto real, especialmente en entornos colaborativos e innovadores.
 
-💬 **Pregúntame acerca de** ...
+💬 **Pregúntame acerca de** desarrollo web, diseño de APIs seguras y eficientes, programación en Python, C++, C# & JavaScript; Design Thinking con diseño centrado en el usuario, depuración de código y buenas prácticas en desarrollo.
 
-📫 **Contáctame a través de:** ...
-
+📫 **Contáctame a través de:** 
+- 📞: +34 637 630 402
+- 📧: hugocuevasr31@gmail.com
 
 ## 🌍 Redes sociales
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hugocuevasr31@gmail.com)
