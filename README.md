@@ -41,6 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/AssemblyScript_logo_2020.svg" alt="AssemblyScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="Assembly" width="40" height="40"/>
 </p>
 
 ### 🎨 Frontend + ⚙️ Backend
