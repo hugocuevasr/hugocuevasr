@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="Assembly" width="40" height="40"/><br>RISC-V / x86
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="Assembly" width="40" height="40"/>
 </p>
 
 ### 🎨 Frontend + ⚙️ Backend
