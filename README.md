@@ -17,7 +17,7 @@
 
 ## 🌍 Redes sociales
 <p align="left">
-  <a href="https://linkedin.com/in/hugocuevasromera" target="_blank" style="margin-left: 15px;">
+  <a href="https://linkedin.com/in/hugocuevasr" target="_blank" style="margin-left: 15px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:hugocuevasr31@gmail.com" target="_blank">
