@@ -23,7 +23,7 @@
   <a href="mailto:hugocuevasr31@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/hugocuevas31" target="_blank" style="margin-left: 15px;">
+  <a href="https://instagram.com/hugocuevasr" target="_blank" style="margin-left: 15px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
