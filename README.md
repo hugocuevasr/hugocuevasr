@@ -36,16 +36,16 @@
 </p>
 
 ### 🖥️ Lenguajes
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/></p>
+[![Lenguajes](https://skillicons.dev/icons?i=python,js,cpp,cs,r)](https://skillicons.dev)
 
 ### 🎨 Frontend & ⚙️ Backend
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></p>
+[![Frontend & Backend](https://skillicons.dev/icons?i=react,vite,nodejs,fastapi,html,css)](https://skillicons.dev)
 
 ### ☁️ Cloud & Bases de Datos
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/></p>
+[![Cloud & DB](https://skillicons.dev/icons?i=azure,mysql,postgres,sqlite)](https://skillicons.dev)
 
 ### 🛠️ Herramientas
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></p>
+[![Herramientas](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -53,7 +53,7 @@
 
 - 🎓 **Grado en Ingeniería Informática** — Universidad Carlos III de Madrid *(Sep 2022 – Actualidad)*
 - 🌍 **Erasmus+** — Politechnika Warszawska, Varsovia, Polonia *(Oct 2024 – Feb 2025)*
-- 📘 **Bachillerato en Ciencias y Tecnología** — IES Universidad Laboral de Toledo **
+- 📘 **Bachillerato en Ciencias y Tecnología** — IES Universidad Laboral de Toledo
 
 ---
 
