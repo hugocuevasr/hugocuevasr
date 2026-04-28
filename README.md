@@ -1,71 +1,107 @@
-# 💡 Acerca de mí
-<!--
-🔭 **Estoy trabajando en** ...
+<h1 align="center">Hola, soy Hugo Cuevas 👋</h1>
+<h3 align="center">Estudiante de Ingeniería Informática · IA & Data · Full-Stack Developer</h3>
 
-🌱 **Estoy aprendiendo** ...
--->
+<br/>
 
-🤝 **Estoy buscando colaborar en** proyectos de desarrollo web full-stack, videojuegos o sistemas con enfoque en seguridad y rendimiento. Me interesa trabajar en soluciones con impacto real, especialmente en entornos colaborativos e innovadores.
+<p align="center">
+  Estudiante de 4.º año en la <strong>Universidad Carlos III de Madrid</strong>, con experiencia en consultoría tecnológica de alto nivel en <strong>EY</strong> dentro del área de IA & Data. Me especializo en el desarrollo de soluciones <em>enterprise-grade</em> con IA generativa, arquitecturas RAG y desarrollo full-stack moderno. Me apasiona construir tecnología con impacto real en entornos colaborativos e innovadores.
+</p>
 
-💬 **Pregúntame acerca de** desarrollo web, diseño de APIs seguras y eficientes, programación en Python, C++, C# & JavaScript; Design Thinking con diseño centrado en el usuario, depuración de código y buenas prácticas en desarrollo.
-
-📫 **Contáctame a través de:** 
-- 📞: +34 637 630 402  
-- 📧: hugocuevasr31@gmail.com  
+<br/>
 
 ---
 
-## 🌍 Redes sociales
+## 🚀 Experiencia
+
+**Intern Consultant AI & Data @ EY** *(Sep 2025 – Mar 2026)*
+- 🔄 Lideré la migración de una app web de **Streamlit a React**, integrando **FastAPI** con servicios de **Azure** (OpenAI, AI Search, Cosmos DB) para la gestión de asistentes virtuales y orquestación de agentes complejos con **LangGraph**.
+- 📧 Desarrollé un sistema de automatización de correos electrónicos mediante llamadas a LLMs, optimizando los flujos de comunicación interna con inteligencia artificial.
+- 📄 Implementé desde cero un sistema **RAG** para el procesamiento inteligente de CVs, usando modelos de embeddings y GPT para la extracción automatizada de habilidades, logros y certificaciones.
+
+**Proyectos Software & Full-Stack** *(Sep 2022 – May 2025)*
+- 🌐 Aplicaciones web interactivas con **React + Vite** en el frontend y **Node.js + WebSockets** en el backend, implementando APIs nativas.
+- 🔐 Comunicación cliente-servidor mediante protocolos HTTP, sockets y colas de mensajes, con APIs seguras y autenticación cifrada.
+- 🎮 Implementación completa del juego clásico **1942 en Python**, con programación orientada a objetos y diseño modular.
+
+---
+
+## 🧠 Stack Tecnológico
+
+### 🤖 IA & Data
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🖥️ Lenguajes
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+</p>
+
+### 🎨 Frontend & ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+### ☁️ Cloud & Bases de Datos
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</p>
+
+### 🛠️ Herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🎓 Educación
+
+- 🎓 **Grado en Ingeniería Informática** — Universidad Carlos III de Madrid *(Sep 2022 – Actualidad)*
+- 🌍 **Erasmus+** — Politechnika Warszawska, Varsovia, Polonia *(Oct 2024 – Feb 2025)*
+- 📘 **Bachillerato en Ciencias y Tecnología** — IES Universidad Laboral de Toledo *(Nota media: 9.6 · EVAU: 13.58/14)*
+
+---
+
+## 🌐 Idiomas
+
+- 🇪🇸 **Español** — Nativo
+- 🇬🇧 **Inglés** — Avanzado · CAE Cambridge C1
+
+---
+
+## 📫 Contacto
+
 <p align="left">
-  <a href="https://linkedin.com/in/hugocuevasr" target="_blank" style="margin-left: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://linkedin.com/in/hugocuevasr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hugocuevasr31@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/hugocuevasr" target="_blank" style="margin-left: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+  <a href="https://github.com/hugocuevasr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💻 Stack Tecnológico
-
-### 🖥️ Lenguajes de programación
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="Assembly" width="40" height="40"/>
+<p align="center">
+  <em>💡 Abierto a colaboraciones en proyectos de IA, desarrollo full-stack y sistemas con impacto real.</em>
 </p>
-
-### 🎨 Frontend + ⚙️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-</p>
-
-### 🗄️ Bases de datos
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
-
-### 🛠️ Herramientas/Plataformas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Adobe" width="40" height="40"/>
-
